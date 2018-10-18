@@ -8,6 +8,19 @@ If you appreciate my effort please consider donating some WGR WjQugSARj5Jn2QoB8G
 **** LOOKING FOR THE ZIP FILE TO DOWNLOAD ? ***********************************
 It's here: https://github.com/TidalWavesNode/Observer-Paper-Wallet-Generator/archive/master.zip
 *******************************************************************************
+Usage:
+Download master.zip file
+Disable internet connection
+unzip master.zip
+open index.html
+select Observer from dropdown coin selection
+click english to generate new hash
+print wallet (recommended using offline printer that doesnt store print jobs)
+Send coins to or Watch the public address
+Import Priv key into OBSR wallet to spend!
+NEVER EVER EVER use a paper wallet again or leave coins on it.
+When you move them move 100% of them off the paper wallet!
+***Use at your own risk***
 
 https://tidalwaves.info/ contains all of my tutorials and writeups I have done for Observer.
 
