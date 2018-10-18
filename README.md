@@ -1,1 +1,0 @@
-# Observer-Paper-Wallet-Generator
